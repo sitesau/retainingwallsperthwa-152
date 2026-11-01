@@ -1,0 +1,22 @@
+{
+  "wheel_id": 628,
+  "structure": "umbrella",
+  "slug": "retainingwallsperthwa-152",
+  "project": "retaining-walls-perth-budget-tips-75cfb483b6fe359c2f7bd51025d5e",
+  "parent_t1_ref": "retainingwallsperthwa-007",
+  "node_role": "buffer",
+  "money_target": "retainingwallsperthwa.com.au",
+  "primary_kw": "retaining walls perth budget tips",
+  "intended_url": "http://retaining-walls-perth-budget-tips-75cfb483b6fe359c2f7bd51025d5e.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "543716b3817b393c",
+  "links": [
+    {
+      "target_url": "https://retaining-walls-perth-retainingwallsperthwa-007-fdfdab.gitlab.io/",
+      "anchor": "this retaining walls perth resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
